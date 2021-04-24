@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/boodschappenlijstReact/static/css/main.e837a6fd.chunk.css",
+    "main.js": "/boodschappenlijstReact/static/js/main.fcdbc120.chunk.js",
+    "main.js.map": "/boodschappenlijstReact/static/js/main.fcdbc120.chunk.js.map",
+    "runtime-main.js": "/boodschappenlijstReact/static/js/runtime-main.bdf9969f.js",
+    "runtime-main.js.map": "/boodschappenlijstReact/static/js/runtime-main.bdf9969f.js.map",
+    "static/js/2.37e0d6b4.chunk.js": "/boodschappenlijstReact/static/js/2.37e0d6b4.chunk.js",
+    "static/js/2.37e0d6b4.chunk.js.map": "/boodschappenlijstReact/static/js/2.37e0d6b4.chunk.js.map",
+    "static/js/3.6fb19e0a.chunk.js": "/boodschappenlijstReact/static/js/3.6fb19e0a.chunk.js",
+    "static/js/3.6fb19e0a.chunk.js.map": "/boodschappenlijstReact/static/js/3.6fb19e0a.chunk.js.map",
+    "index.html": "/boodschappenlijstReact/index.html",
+    "static/css/main.e837a6fd.chunk.css.map": "/boodschappenlijstReact/static/css/main.e837a6fd.chunk.css.map",
+    "static/js/2.37e0d6b4.chunk.js.LICENSE.txt": "/boodschappenlijstReact/static/js/2.37e0d6b4.chunk.js.LICENSE.txt",
+    "static/media/container.css": "/boodschappenlijstReact/static/media/greens-grocery-store-lettuce.6285a1ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdf9969f.js",
+    "static/js/2.37e0d6b4.chunk.js",
+    "static/css/main.e837a6fd.chunk.css",
+    "static/js/main.fcdbc120.chunk.js"
+  ]
+}
